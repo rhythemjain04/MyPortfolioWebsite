@@ -144,19 +144,7 @@
                      view project
                   </button>
                </div>
-               <!-- <div class="prj-card hidden">
-                  <div class="header hidden">
-                     <div class="title">Workplace Satisfaction <span>FreeCodeCamp</span></div>
-                  </div>
-                  <div data-cursor="gray,large,move" class="thumbnail hidden">
-                     <img loading="lazy" src="images/site-thumbnails/survey.png" alt="" />
-                  </div>
-                  <button data-prj="projects/survey.html" data-cursor="pointer" class="more-info hidden">
-                     view project
-                  </button>
-               </div> -->
-       
-               
+             
          </section>
          <div class="parallax">
             <video autoplay muted loop>
